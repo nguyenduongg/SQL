@@ -11,5 +11,5 @@ Các phân tích chính thực hiện trong dự án:
 - **Customer Insights:** Top các khu vực có lượng khách hàng lớn nhất.
 - **Product Performance:** Danh mục sản phẩm bán chạy và điểm đánh giá (Reviews).
 
-[👉 Click để xem chi tiết các câu lệnh SQL](./olist_queries_analysis.sql)
+[👉 Click để xem chi tiết các câu lệnh SQL](./olist_queries_analysis.sql) <br>
 Dữ liệu SQL thô được nén trong tệp Data.zip. Vui lòng giải nén trước khi chạy các tập lệnh.
